@@ -40,7 +40,7 @@
 .gutter-y-30 {
   --bs-gutter-y: 30px;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
 body {
   font-family: "Cairo", sans-serif;
   font-size: 17px;
